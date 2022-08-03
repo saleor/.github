@@ -15,6 +15,10 @@
 <br>
 
 <div align="center">
+  <h2>Links</h1>
+</div>
+
+<div align="center">
   <a href="https://saleor.io/">🏠 Website</a>
   <span> | </span>
   <a href="https://twitter.com/getsaleor">🐦 Twitter</a>
@@ -22,4 +26,18 @@
   <a href="https://docs.saleor.io/docs/3.x/">📚 Docs</a>
   <span> | </span>
  <a href="https://saleor.io/blog/">📰 Blog</a>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>Repositories</h1>
+</div>
+
+<div align="center">
+  <a href="https://github.com/saleor/saleor">🌐 Core</a>
+  <span>  |  </span>
+  <a href="https://github.com/saleor/saleor-dashboard">🛠️ Dashboard</a>
+  <span> | </span>
+  <a href="https://github.com/saleor/react-storefront">🛍️ Storefront</a>
 </div>
