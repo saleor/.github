@@ -9,11 +9,11 @@ Saleor is an API-first commerce platform for solving complex commerce use cases.
 </div>
 
 <div>
-  <a href="https://demo.saleor.io/discord/">Discord</a>
+  <a href="https://saleor.io/discord">Discord</a>
   <span> | </span>
   <a href="https://saleor.io/">Website</a>
   <span> | </span>
-  <a href="https://docs.saleor.io/docs/3.x/">Docs</a>
+  <a href="https://docs.saleor.io">Docs</a>
   <span> | </span>
   <a href="https://twitter.com/getsaleor">Twitter</a>
   <span> | </span>
