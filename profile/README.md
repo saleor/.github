@@ -15,7 +15,7 @@ Saleor is an API-first commerce platform for solving complex commerce use cases.
   <span> | </span>
   <a href="https://docs.saleor.io">Docs</a>
   <span> | </span>
-  <a href="https://twitter.com/getsaleor">Twitter</a>
+  <a href="https://x.com/getsaleor">X</a>
   <span> | </span>
   <a href="https://saleor.io/roadmap">Roadmap</a>
 </div>
