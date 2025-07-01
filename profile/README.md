@@ -4,11 +4,20 @@ Saleor is an API-first commerce platform for solving complex commerce use cases.
 
 <br>
 
-<div>
-  <h3>Useful links:</h3>
+<div align="center">
+ Get to know Saleor: <br>
+  <a href="https://saleor.typeform.com/talk-with-us?utm_source=github&utm_medium=readme&utm_campaign=repo_github">Talk to a human</a>
+  <span> | </span>
+  <a href="https://cloud.saleor.io/signup?utm_source=github&utm_medium=readme&utm_campaign=repo_github">Talk to API</a>
 </div>
 
-<div>
+<br>
+
+<div align="center">
+  <h3>Useful links:</h3>
+
+
+
   <a href="https://saleor.io/discord">Discord</a>
   <span> | </span>
   <a href="https://saleor.io/">Website</a>
