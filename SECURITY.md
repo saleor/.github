@@ -34,8 +34,8 @@ You should:
 
 - Clearly disclose if you used AI to create the vulnerability report.
   This ensures transparency and accountability.
-- Explicitly confirm that you manully verified the findings and the contents.
-  Reports that were not manually verified may be immediately rejected.
+- Explicitly confirm that you manually verified the findings and the contents.
+  Reports that were not manually verified may be get rejected without follow-ups.
 
 ## No Monetary Rewards
 
