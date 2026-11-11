@@ -14,15 +14,32 @@ Whichever method you choose, you will be credited as the reporter once the annou
 
 A report must:
 
-- Include a clear description of the issue
-- Include reproduction steps that allow us to verify the behavior
+- Be concise and limited to information relevant to understanding, reproducing
+  and assessing the security issue. Avoid unnecessary explanations, repetition,
+  or speculative analysis (such as RCAs)
+- Include a clear description of the issue and its security impact in a few sentences
+- Include clear reproduction steps in English that allow us to verify the behavior
+  without requiring us to execute supplied code.
 - Include affected version(s) and environment details (versions, OS, tools, configurations)
 - Mention whether you are willing to review the patches before their publication
 - Be self-contained (no file attachments nor download links). Reports requiring to open
   arbitrary files or links may not be accepted.
 
-Reports that lack these elements may be considered incomplete and may be closed without follow-up,
-reports may also be closed if the submitter does not engage to follow-ups.
+Reports should NOT include:
+
+- Root cause analysis (RCA) or speculative explanations.
+- Automated test suites (e.g., pytest, Jest) or large code samples.
+- Unnecessary logs, scanner output, or other unrelated technical information.
+
+Minimal examples (e.g., HTTP requests, GraphQL queries, or commands) may be included when
+necessary to demonstrate the issue.
+
+We may request additional technical information when required to reproduce or investigate
+a reported issue.
+
+Reports that do not meet these requirements may be considered incomplete and closed without
+further follow-up. Reports may also be closed if the reporter does not respond to requests
+for clarification or follow-ups.
 
 ## Automated Reports
 
