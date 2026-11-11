@@ -30,6 +30,8 @@ Reports should NOT include:
 - Root cause analysis (RCA) or speculative explanations.
 - Automated test suites (e.g., pytest, Jest) or large code samples.
 - Unnecessary logs, scanner output, or other unrelated technical information.
+- Attachments, downloads, or links (PDFs, zip files, code, etc.) unless explicitly
+  requested.
 
 Minimal examples (e.g., HTTP requests, GraphQL queries, or commands) may be included when
 necessary to demonstrate the issue.
